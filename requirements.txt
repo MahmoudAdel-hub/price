@@ -1,4 +1,4 @@
-streamlit
-joblib
-pandas
-sklearn
+streamlit==1.33.0
+joblib==1.2.0
+pandas==1.4.3
+sklearn==1.2.1
